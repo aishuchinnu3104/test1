@@ -3,6 +3,8 @@ main()
 {
 add();
 sub();
-mul();
+mul()
+{
+printf("Multiplication");
 div();
 }
