@@ -3,7 +3,7 @@ main()
 {
 add()
 {
-printf("Addition of a and b%d");
+printf("Addition of a and b%d",sum);
 }
 sub();
 mul();
