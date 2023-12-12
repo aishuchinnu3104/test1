@@ -5,7 +5,9 @@ add()
 {
 printf("Addition of a and b%d",sum);
 }
-sub();
+sub()
+{
+printf("Subtraction")
 mul();
 div();
 }
